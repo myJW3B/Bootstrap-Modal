@@ -1,0 +1,22 @@
+{
+	"name": "myjw3b/bootstrap-modal",
+	"type": "project",
+	"description": "Small PHP Class to help build Bootstrap 5 Modals fast",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "John Brittain III",
+			"email": "Yohn@coming-soon.com",
+			"homepage": "https://github.com/Yohn",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"JW3B\\gui\\": "gui"
+		}
+	},
+	"require": {
+		"php": "^8.0"
+	}
+}
