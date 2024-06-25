@@ -5,6 +5,7 @@
 			->start_modal('modal_id', 'My Modal', 'default')
 			->body('whats in my body')
 			->close('footer_id', 'footer text', true);
+	might need to update to bootstrap 5
 */
 
 namespace JW3B\gui;
